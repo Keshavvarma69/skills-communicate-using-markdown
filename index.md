@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [X] Given task completed
+- [x] attached image
+- [ ] Introduce myself to the world
